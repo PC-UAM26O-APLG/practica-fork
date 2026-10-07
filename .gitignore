@@ -1,0 +1,13 @@
+# Archivos objeto y temporales de compilación
+*.o
+*.out
+*.app
+
+# Ejecutables generados en la práctica
+ejemplo1
+ejemplo2
+escalonado
+flor
+
+#Configuración del entorno
+.env
