@@ -32,3 +32,8 @@ gcc ejemplo1.c -o ejemplo1
 gcc ejemplo2.c -o ejemplo2
 gcc escalonado.c -o escalonado
 gcc flor.c -o flor
+````
+## Ejecución
+```bash
+./ejemplo1
+````
